@@ -14,10 +14,10 @@ This data set is collected from **Addis Ababa Sub-city Police Departments** for 
 
 
 ## Issues Solved 📧:
-Exploratory Data Analysis
-Data Preprocessing
-Imbalanced Dataset
-Model Training
-Hyperparameters Tuning
+* Exploratory Data Analysis
+* Data Preprocessing
+* Imbalanced Dataset
+* Model Training
+* Hyperparameters Tuning
 
 
